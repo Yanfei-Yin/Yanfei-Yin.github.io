@@ -1,8 +1,1 @@
----
-layout: cv
-title: CV
-slug: /cv
----
-
-This is an example of a "Blog" page, displaying a list of posts.
-<br />
+My CV can be downloaded here: <embed src="/assets/CV.pdf" width="500" height="600" type="application/pdf">
