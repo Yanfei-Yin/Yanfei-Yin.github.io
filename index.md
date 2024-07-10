@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my website! I am Yanfei Yin, a second-year master student at School of Business, Nanjing University. Currently, I am looking for a suitable PhD program in Economics. 
+  Welcome to my website! I am Yanfei Yin, a second-year master student at School of Business, Nanjing University.
 <p>
 
 <p>  
@@ -15,4 +15,8 @@ profile_picture:
 
 <p>
   I am very fortunate to be advised by Prof. <a href="http://nubs.nju.edu.cn/jg1/list.htm">Gang Jin</a> from Nanjing University and Prof. <a href="https://www.frankchenshuo.com/">Shuo Chen</a> from Fudan University.
+</p>
+
+<p>
+   Currently, I am actively looking for an overseas PhD program in economics. My Email is yanfei_yin@samil.nju.edu.cn
 </p>
