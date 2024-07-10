@@ -2,9 +2,7 @@
 layout: research
 title: Research
 slug: /research
----
 
----
 items:
   - title: My Interest 1
     image:
