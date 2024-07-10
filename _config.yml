@@ -17,7 +17,7 @@ footer:
   show_powered_by: false
   contact:
     - type: email
-      name: Email(yanfei_yin@smail.nju.edu.cn)
+      name: Email
       value: yanfei_yin@smail.nju.edu.cn
 
 
