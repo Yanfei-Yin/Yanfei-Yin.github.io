@@ -1,18 +1,30 @@
-layout: research
-title: Research
-slug: /research
+<p>
+  ---
+  Publications:
+  ---
+  - The Synergy Effect of National and Local Pilots: Evidence from the Student Nutrition Improvement Plan. Journal of World Economy [世界经济], 2023 (11): 30-53.(with Gang Jin)
+</p>
 
-items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+  ---
+  Working Papers:
+  ---
+  - Deluge and Development of Early Human Societies: From the Neolithic to Early States. Available at SSRN: https://ssrn.com/abstract=4650064. (with Shuo Chen, and Xinyu Fan)
+  - Guns and Resources: War Extractions and Governance Paradigm Shifts. Available at SSRN: https://ssrn.com/abstract=4556436. (with Shuo Chen, Xinyu Fan, and Yongtao Li)
+  - The Power of Words: Adult Literacy Campaign and Intergenerational Transmission of Human Capital. (with Shuo Chen, Xian Xu, and Zhuoer Lin)
+  - Masters of Masterpieces: Ownership Dynamics of Top Elite's Art Investments. (with Shuo Chen, Xinyu Fan, and Luc Renneboog)
+  - Decentralized Energy-saving Target Allocation: Allocation Efficiency and Emission Reduction Effect. (in Chinese) (with Gang Jin)
+</p>
+
+<p>
+  ---
+  Work in Progress
+  ---
+  - Institutional Reform and Academic Productivity.
+  - Mike and Mary Matter.
+  - The Art of Governing: Technological Advances and Governance Paradigm Shifts.
+  - Money Chasing Power.
+</p>
 
 <br />
 <br />
