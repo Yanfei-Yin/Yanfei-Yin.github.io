@@ -5,6 +5,7 @@
   - The Synergy Effect of National and Local Pilots: Evidence from the Student Nutrition Improvement Plan. Journal of World Economy [世界经济], 2023 (11): 30-53.(with Gang Jin)
 </p>
 
+
 <p>
  
   Working Papers:
@@ -15,6 +16,7 @@
   - Masters of Masterpieces: Ownership Dynamics of Top Elite's Art Investments. (with Shuo Chen, Xinyu Fan, and Luc Renneboog)
   - Decentralized Energy-saving Target Allocation: Allocation Efficiency and Emission Reduction Effect. (in Chinese) (with Gang Jin)
 </p>
+
 
 <p>
   
