@@ -6,8 +6,9 @@
 </p>
 
 <p>
-  #Working Papers:
-  
+ 
+  Working Papers:
+  ---
   - Deluge and Development of Early Human Societies: From the Neolithic to Early States. Available at SSRN: https://ssrn.com/abstract=4650064. (with Shuo Chen, and Xinyu Fan)
   - Guns and Resources: War Extractions and Governance Paradigm Shifts. Available at SSRN: https://ssrn.com/abstract=4556436. (with Shuo Chen, Xinyu Fan, and Yongtao Li)
   - The Power of Words: Adult Literacy Campaign and Intergenerational Transmission of Human Capital. (with Shuo Chen, Xian Xu, and Zhuoer Lin)
@@ -16,8 +17,9 @@
 </p>
 
 <p>
-  #Work in Progress：
   
+  Work in Progress：
+  ---
   - Institutional Reform and Academic Productivity.
   - Mike and Mary Matter.
   - The Art of Governing: Technological Advances and Governance Paradigm Shifts.
