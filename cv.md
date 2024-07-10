@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: CV
 title: CV
 slug: /cv
 ---
