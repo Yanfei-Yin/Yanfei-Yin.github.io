@@ -1,9 +1,9 @@
-<h1> Publications:</h1>
+<h1><b> Publications:</b></h1>
 <p>
   1. The Synergy Effect of National and Local Pilots: Evidence from the Student Nutrition Improvement Plan. Journal of World Economy [世界经济], 2023 (11): 30-53.(with Gang Jin)
 </p>
  
-<h1> Working Papers:</h1>
+<h1><b> Working Papers:</b></h1>
 <p>
   1. Deluge and Development of Early Human Societies: From the Neolithic to Early States. <a href="https://ssrn.com/abstract=4650064">Available at SSRN</a>. (with Shuo Chen, and Xinyu Fan)
 </p>
@@ -20,7 +20,7 @@
   5. Decentralized Energy-saving Target Allocation: Allocation Efficiency and Emission Reduction Effect. (in Chinese) (with Gang Jin)
 </p>
   
-<h1> Work in Progress:</h1>
+<h1><b> Work in Progress:</b></h1>
 <p>
   1. Institutional Reform and Academic Productivity.
 </p>
