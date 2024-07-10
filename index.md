@@ -14,9 +14,5 @@ profile_picture:
 <p>
 
 <p>
-  I am very fortunate to be advised by Prof. <a href="http://nubs.nju.edu.cn/jg1/list.htm">Gang Jin</a> from Nanjing University and Prof. <a href="https://www.frankchenshuo.com/">Shuo Chen</a> from Fudan University.
-</p>
-
-<p>
-   Currently, I am actively looking for an overseas PhD program in economics. My Email is yanfei_yin@samil.nju.edu.cn
+  I am very fortunate to be advised by Prof. <a href="http://nubs.nju.edu.cn/jg1/list.htm">Gang Jin</a> from Nanjing University and Prof. <a href="https://www.frankchenshuo.com/">Shuo Chen</a> from Fudan University. Currently, I am actively looking for an overseas PhD program in economics. My Email is yanfei_yin@samil.nju.edu.cn
 </p>
