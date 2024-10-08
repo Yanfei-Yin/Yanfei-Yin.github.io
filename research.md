@@ -13,10 +13,10 @@
   2. Guns and Resources: War Extractions and Governance Paradigm Shifts. <a href="https://ssrn.com/abstract=4556436">Available at SSRN</a>. (with Shuo Chen, Xinyu Fan, and Yongtao Li), Submitted to <i>American Economic Journal: Economic Policy</i>
 </p>
 <p>
-  3. The Power of Words: Adult Literacy Campaign and Intergenerational Transmission of Human Capital. (with Shuo Chen, Xian Xu, and Zhuoer Lin), Target <i>American Economic Journal: Applied Economics</i>
+  3. The Power of Words: Adult Literacy Campaign and Intergenerational Transmission of Human Capital. (with Shuo Chen, Xian Xu, and Zhuoer Lin), Targeted <i>American Economic Journal: Applied Economics</i>
 </p>
 <p>
-  4. Masters of Masterpieces: Ownership Dynamics of Top Elite's Art Investments. (with Shuo Chen, Xinyu Fan, and Luc Renneboog), Target <i>Management Science</i>
+  4. Masters of Masterpieces: Ownership Dynamics of Top Elite's Art Investments. (with Shuo Chen, Xinyu Fan, and Luc Renneboog), Targeted <i>Management Science</i>
 </p>
 <p>
   5. Decentralized Energy-saving Target Allocation: Allocation Efficiency and Emission Reduction Effect. (in Chinese) (with Gang Jin), Under Review at <i>Economic Research Journal</i> [经济研究]
