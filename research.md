@@ -10,7 +10,7 @@
  
 <h2><b> Working Papers:</b></h2>
 <p>
-  1. <b>Guns and Resources: War Extractions and Governance Paradigm Shifts.</b> <a href="https://ssrn.com/abstract=4556436">Available at SSRN</a>. (with Shuo Chen, Xinyu Fan, and Yongtao Li), Under Peer Review at <b><i>Journal of Development Economics</i></b> (The authors contributed equally to this work and were ordered alphabetically)
+  1. <b>Guns and Resources: War Extractions and Governance Structure Reforms.</b> <a href="https://ssrn.com/abstract=4556436">Available at SSRN</a>. (with Shuo Chen, Xinyu Fan, and Yongtao Li), Under Peer Review at <b><i>Journal of Development Economics</i></b> (The authors contributed equally to this work and were ordered alphabetically)
 </p>
 <p>
   <i>Abstract: How do wars affect the state's choice between direct and indirect governance? Using the 70-year Dzungar-Qing Wars (1688-1758) as an exogenous shock and a difference-in-differences strategy on prefecture-level panel data, we reveal that for the Qing Empire, war-unaffected regions rich in strategic military resources were more likely to shift from local autonomy to direct governance after the wars broke out. This permanent governance reform was more likely to occur where transportation was more convenient, while resource-rich areas opened more factories during rather than after the wars. Thus, the paper highlights the regional externality in state building during wartime.</i>
