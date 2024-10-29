@@ -10,7 +10,7 @@ profile_picture:
 <p>
 
 <p>  
-  My research interests are development economics, political economy, and economic history. Specifically, my research aims to gain a deep understanding of the relationship between central and local governments and their strategic interactions, including the determinants of the governance method, and the impact of the reform of local government power. I am also interested in using unique data to measure social mobility in pre-modern societies, as well as discussing human capital formation and the spillover effects of education using census data and household survey data.
+  My research interests lie in development economics, political economy, and economic history. Specifically, I aim to gain a deeper understanding of the dynamics of power distribution across different levels of government in China, including the determinants of governance methods and the impacts of local government power reforms. Additionally, I am interested in using unique data to measure social mobility in pre-modern societies, as well as exploring human capital formation and the spillover effects of education through census data and household survey data.
 <p>
 
 <p>
