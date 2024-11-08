@@ -14,5 +14,5 @@ profile_picture:
 <p>
 
 <p>
-  I am very fortunate to be advised by Prof. <a href="http://nubs.nju.edu.cn/jg1/list.htm">Gang Jin</a> from Nanjing University, Prof. <a href="https://www.frankchenshuo.com/">Shuo Chen</a> from Fudan University, Prof. <a href="https://www.ckgsb.edu.cn/faculty/professor_team/detail/156/FANXinyu.html">Xinyu Fan</a> from CKGSB, Prof. <a href="https://www.zhuoerlin.org/home">Zhuoer Lin</a> from University of Illinois at Chicago. Currently, I am actively looking for an overseas Ph.D. program in economics. Please feel free to contact me via e-mail: yanfei_yin@samil.nju.edu.cn
+  I am very fortunate to be advised by Prof. <a href="http://nubs.nju.edu.cn/jg1/list.htm">Gang Jin</a> from Nanjing University, Prof. <a href="https://www.frankchenshuo.com/">Shuo Chen</a> from Fudan University, Prof. <a href="https://www.ckgsb.edu.cn/faculty/professor_team/detail/156/FANXinyu.html">Xinyu Fan</a> from CKGSB, Prof. <a href="https://www.zhuoerlin.org/home">Zhuoer Lin</a> from University of Illinois at Chicago. Currently, I am actively looking for an overseas Ph.D. program in economics. Please feel free to contact me via e-mail: yanfei_yin@smail.nju.edu.cn
 </p>
