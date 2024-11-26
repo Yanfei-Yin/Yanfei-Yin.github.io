@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
+<p  style="text-align:justify; text-justify:inter-ideograph;>
   Welcome to my website! I am Yanfei Yin, a third-year masters student at School of Business, Nanjing University.
 <p>
 
