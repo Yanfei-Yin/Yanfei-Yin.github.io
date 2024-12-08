@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my website! I am Yanfei Yin, a third-year masters student at School of Business, Nanjing University.
+  Welcome to my website! I am Yanfei Yin, a third-year masters student at School of Business, Nanjing University. Please see my personal website at <a href="https://sites.google.com/view/yanfeiyin/">https://sites.google.com/view/yanfeiyin</a>
 <p>
 
 <p>  
